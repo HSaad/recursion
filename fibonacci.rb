@@ -22,7 +22,3 @@ def fibs_rec(n, arr=[])
 	end
 	return arr
 end
-
-puts fibs_rec(3, []).inspect
-puts fibs_rec(5, []).inspect
-puts fibs_rec(12).inspect
